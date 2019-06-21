@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\SEVRTODLL\Fitness\Fitness\bin\Debug\Fitness.dll
+C:\Users\Administrator\Desktop\SEVRTODLL\Fitness\Fitness\bin\Debug\Fitness.pdb
+C:\Users\Administrator\Desktop\SEVRTODLL\Fitness\Fitness\bin\Debug\InterfaceDeclare.dll
+C:\Users\Administrator\Desktop\SEVRTODLL\Fitness\Fitness\bin\Debug\InterfaceDeclare.pdb
+C:\Users\Administrator\Desktop\SEVRTODLL\Fitness\Fitness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEVRTODLL\Fitness\Fitness\obj\Debug\Fitness.dll
+C:\Users\Administrator\Desktop\SEVRTODLL\Fitness\Fitness\obj\Debug\Fitness.pdb

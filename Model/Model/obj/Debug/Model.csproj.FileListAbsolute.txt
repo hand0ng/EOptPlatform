@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\SEVRTODLL\Model\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\SEVRTODLL\Model\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\SEVRTODLL\Model\Model\bin\Debug\InterfaceDeclare.dll
+C:\Users\Administrator\Desktop\SEVRTODLL\Model\Model\bin\Debug\InterfaceDeclare.pdb
+C:\Users\Administrator\Desktop\SEVRTODLL\Model\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEVRTODLL\Model\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\SEVRTODLL\Model\Model\obj\Debug\Model.pdb
